@@ -1,0 +1,5 @@
+[20604] 18 Sep 00:33:05.192 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[20604] 18 Sep 00:33:05.192 # Redis version=5.0.14.1, bits=64, commit=ec77f72d, modified=0, pid=20604, just started
+[20604] 18 Sep 00:33:05.192 # Configuration loaded
+[20604] 18 Sep 00:33:05.192 # Windows does not support daemonize. Start Redis as service
+[20604] 18 Sep 00:33:05.197 # Could not create server TCP listening socket 127.0.0.1:6379: bind: The operation completed successfully.
